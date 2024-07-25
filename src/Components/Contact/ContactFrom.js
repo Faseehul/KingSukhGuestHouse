@@ -80,13 +80,15 @@ const ContactFrom = () => {
 
           <div className='side-content'>
             <h3>Visit our location</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit amet consectetur.</p>
+            <p>Beside Barshal Water Tank,
+                   Manpur, Barhanti,
+                   West Bengal 723156</p>
             <br />
 
             <h3>Message us</h3>
-            <span>info@exampal.com</span>
+            <span>kkghosh0099@gmail.com</span>
             <br />
-            <span>+01 123 456 789</span>
+            <span>+91 9007062180</span>
             <br />
 
             <div className='icon'>

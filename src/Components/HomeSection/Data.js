@@ -6,7 +6,7 @@ const Data = [
     image: "images/slider-2.jpg",
   },
   {
-    image: "images/slider-3.jpg",
+    image: "images/slider-3.webp",
   },
 ]
 export default Data

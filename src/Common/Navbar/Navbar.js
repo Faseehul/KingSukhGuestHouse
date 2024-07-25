@@ -75,9 +75,7 @@ const Navbar = () => {
 
       <header>
         <div className='container flex_space'>
-          <div className='logo'>
-            <img src='images/logo.png' alt='' />
-          </div>
+        <a href="/" className="logo">KINGSUKH GUEST HOUSE</a>
 
           <div className='contact flex_space '>
             <div className='box flex_space'>
@@ -95,7 +93,7 @@ const Navbar = () => {
               </div>
               <div className='text'>
                 <h4>Call Us</h4>
-                <Link to='/contact'>+011 123 4567</Link>
+                <Link to='/contact'>++91 9007062180</Link>
               </div>
             </div>
             <div className='box flex_space'>
@@ -104,7 +102,7 @@ const Navbar = () => {
               </div>
               <div className='text'>
                 <h4>Mail Us</h4>
-                <Link to='/contact'>info@exampal.com</Link>
+                <Link to='/contact'>kkghosh0099@gmail.com</Link>
               </div>
             </div>
           </div>

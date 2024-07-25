@@ -9,9 +9,9 @@ const Footer = () => {
         <div className='container grid'>
           <div className='box'>
             <h2>ABOUT US</h2>
-            <p>Lorem ipsum dolor sit amet sectetur adipiscing elit amet consectetur scing elit amet consectetur adipiscing elit sed et eletum.</p>
-            <br />
-            <p>Lorem ipsum dolor sit amet sectetur adipiscing elit amet consectetur scing elit amet.</p>
+            <p>KINGSUKH is a global platform that empowers entrepreneurs and small businesses with hotels and homes by providing full stack technology that increases earnings and eases operations. 
+              Bringing affordable and trusted accommodation that guests can book instantly.</p>
+
             <div className='icon flex_space'>
               <i className='fab fa-facebook-f'></i>
               <i className='fab fa-twitter'></i>
@@ -53,26 +53,26 @@ const Footer = () => {
             <h2>RECENT POSTS</h2>
             <ul>
               <li>
-                <p>Lorem ipsum dolor sit amet sectetur adipiscing elit amet</p>
+                <p>Their Rooms are good.</p>
                 <label className='fa fa-calendar-alt'></label>
-                <span>01 Oct 2020</span>
+                <span>01 Oct 2022</span>
               </li>
               <li>
-                <p>Lorem ipsum dolor sit amet sectetur adipiscing elit amet</p>
+                <p>They have good Services.</p>
                 <label className='fa fa-calendar-alt'></label>
-                <span>01 Oct 2020</span>
+                <span>01 Nov 2022</span>
               </li>
               <li>
-                <p>Lorem ipsum dolor sit amet sectetur adipiscing elit amet</p>
+                <p>Good Pricing.</p>
                 <label className='fa fa-calendar-alt'></label>
-                <span>01 Oct 2020</span>
+                <span>01 Oct 2023s</span>
               </li>
             </ul>
           </div>
 
           <div className='box'>
             <h2>NEWSLETTER</h2>
-            <p>Lorem ipsum dolor sit amet sectetur adipiscing elit amet</p>
+            <p>For Latest Updates</p>
 
             <input type='text' name='' id='' />
             <input type='text' className='primary-btn' value='SUBSCRIBE' />

@@ -20,8 +20,10 @@ const About = () => {
             <h1>
               Our <span>Features</span>
             </h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit amet consectetur piscing elit amet consectetur adipiscing elit sed et eletum nulla eu placerat felis etiam tincidunt orci lacus id varius dolor fermum sit amet.</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit amet consectetur piscing elit amet consectetur adipiscing elit sed et eletum nulla eu placerat felis etiam tincidunt orci lacus id varius dolor fermum sit amet.</p>
+            <p>KINGSUKH is a global platform that empowers entrepreneurs and small businesses with hotels and homes by providing full stack technology that increases earnings and eases operations. 
+              Bringing affordable and trusted accommodation that guests can book instantly.</p>
+            <p>KINGSUKH is a global platform that empowers entrepreneurs and small businesses with hotels and homes by providing full stack technology that increases earnings and eases operations. 
+              Bringing affordable and trusted accommodation that guests can book instantly.</p>
             <button className='secondary-btn'>
               Explore More <i className='fas fa-long-arrow-alt-right'></i>
             </button>

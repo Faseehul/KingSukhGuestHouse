@@ -158,7 +158,9 @@ input {
   grid-gap: 30px;
 }
 .icon {
-  margin-top: 20px;
+  font-size: 2rem;
+  cursor: pointer;
+  color: #31b675;
 }
 .icon i {
   background: #f5f5f5;
